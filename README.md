@@ -1,7 +1,7 @@
 # - 👋 Hi, I’m Nwafuluibeya Gloria.
 ## - 👀 I’m interested in CRM automation & integration, customer support, data analysis, and virtual assistant.
 - 🌱 I’m currently learning n8n and Go-Highlevel
-- 💞️ I’m looking to collaborate with companies, organizations or even individuals to solve their business problems by leveraging data.
+- 💞️ I’m looking to collaborate with companies, organizations or even individuals to solve their problems by automating their systems.
 - I'm open to opportunities.
 - Ask me about anything on crm workflow & automation, I will respond immediately. However, Power BI, Excel and Tableau are my favourite data analytics tools.
 - 📫 How to reach me [Linkedin](www.linkedin.com/in/obianuju-nwafuluibeya)
